@@ -1,0 +1,6 @@
+{
+  "name": "Noel Decore - Super Kit Árvore de Natal",
+  "description": "Descubra o kit perfeito para transformar sua casa com uma árvore de Natal completa, elegante e aconchegante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
